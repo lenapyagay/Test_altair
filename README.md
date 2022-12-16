@@ -1,5 +1,9 @@
 # Test_altair.
 ![This is an image](https://th-thumbnailer.cdn-si-edu.com/YBaaPnj59kbm3WLzRy8K5exYWDM=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/ef/ff/efff9ae5-1832-489f-bb1f-f1a00944a8aa/hedgehog.jpg)
+
+
+![This is an image](https://www.boredpanda.com/blog/wp-content/uploads/2020/04/hedgehog-bengal-cat-friendship-mr-pokee-17-5e95736308428__700.jpg)
+
 Автор работы:
 
 ученица 11 «Т» класса
